@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Liz!
-- 👀 I’m a Project Manager.
+## 📅 Liz Wang - PjM Team 
+
+👋 Hi, I’m Liz!
+☎️ Slack : Liz Wang (HQ/PjM)
 
 <!---
 lizwang17/lizwang17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
